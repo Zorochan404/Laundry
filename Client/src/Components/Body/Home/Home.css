@@ -67,10 +67,11 @@ img.intro-image{
 
 .section2 > .card-align > .card > h3 {
     color: #262626;
-    font-size: 17px;
+    font-size: 25px;
     line-height: 24px;
     font-weight: 700;
     margin-bottom: 4px;
+    text-align: center;
   }
   
   .section2 > .card-align > .card > p {
@@ -80,7 +81,8 @@ img.intro-image{
     color: #666666;
   
     &.small {
-      font-size: 14px;
+      font-size: 18px;
+      text-align: center;
     }
   }
   
